@@ -22,7 +22,7 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white)
 ![Prime NG](https://img.shields.io/badge/-PrimeNG-00C853?logo=prime&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/-Angular--Material-757575?logo=angular&logoColor=white)
@@ -31,6 +31,8 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React--Query-FF4154?logo=react-query&logoColor=white)
 ![Materialize CSS](https://img.shields.io/badge/-Materialize--CSS-EB706F?logo=material-design&logoColor=white)
+![Taiga UI](https://img.shields.io/badge/Taiga--UI-1793D1?logoColor=white)
+![Ignite UI](https://img.shields.io/badge/Ignite--UI-DD1100?logoColor=white)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohid123&show_icons=true&theme=radical)
