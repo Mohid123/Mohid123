@@ -52,7 +52,6 @@ Over the years, I've had the privilege of building solutions across a wide range
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
 
 ## 🛠 Tools & Technologies
-## 🛠 Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
