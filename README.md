@@ -17,9 +17,6 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
-![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white)
 ![Form.IO](https://img.shields.io/badge/-Form.IO-00C853?logo=formstack&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
@@ -27,6 +24,13 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
 ![Prime NG](https://img.shields.io/badge/-PrimeNG-00C853?logo=prime&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular--Material-757575?logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white)
+![NgRX](https://img.shields.io/badge/-NgRX-B7282D?logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React--Query-FF4154?logo=react-query&logoColor=white)
+![Materialize CSS](https://img.shields.io/badge/-Materialize--CSS-EB706F?logo=material-design&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohid123&show_icons=true&theme=radical)
@@ -48,12 +52,16 @@ Over the years, I've had the privilege of building solutions across a wide range
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
 
 ## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
