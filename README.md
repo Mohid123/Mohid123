@@ -1,4 +1,4 @@
-# Hello, I'm Mohid 👋
+# Hi, I'm Mohid 👋
  
 I'm a passionate and proficient Senior Front-End Developer, fluent in Angular, React JS/Next JS, and Solid JS. My expertise on the front end is powerfully complemented by solid skills in backend technologies like Express, NodeJS, NestJS, and MongoDB. 
 
