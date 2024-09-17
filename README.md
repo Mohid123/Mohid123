@@ -35,8 +35,8 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![Ignite UI](https://img.shields.io/badge/Ignite--UI-DD1100?logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohid123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid123&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohid123&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid123&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 ## 🔥 Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohid123&theme=radical)](https://git.io/streak-stats)
