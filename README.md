@@ -51,7 +51,7 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/k6ayjo86ctifa85jzk704iup8)
 
 ## 🛠 Tools & Technologies
 <p align="left">
