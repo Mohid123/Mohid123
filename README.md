@@ -1,8 +1,63 @@
 # Hi, I'm Mohid 👋
  
-I'm a passionate and proficient Senior Front-End Developer, fluent in Angular, React JS/Next JS, and Solid JS. My expertise on the front end is powerfully complemented by solid skills in backend technologies like Express, NodeJS, NestJS, and MongoDB. 
+```
+import { Developer, Passion, Frameworks, Industries, BackendSkills } from '@mohid/core';
 
-Over the years, I've had the privilege of building solutions across a wide range of industries—Ecommerce, Fintech, Healthcare, Social Media, and GIS—delivering innovative, scalable, and high-performance applications. Whether it's the sleek user experience or the seamless server-side integration, I'm all about turning complex challenges into elegant solutions.
+@Component({
+  selector: 'senior-front-end-dev',
+  template: `
+    <div>
+      <h1>Hi, I’m Mohid 👋</h1>
+      <p>I build performant frontends and battle-hardened backends.</p>
+      <p>Also fluent in caffeine and sarcastic commit messages.</p>
+    </div>
+  `,
+  changeDetection: ChangeDetectionStrategy.OnPush,
+})
+export class MohidComponent implements Developer {
+  readonly title = 'Senior Front-End Developer';
+  readonly passion: Passion = 'Crafting clean, scalable, and *actually* enjoyable codebases.';
+
+  readonly frameworks: Frameworks[] = ['Angular', 'React', 'Next.js', 'Solid.js'];
+  readonly backendSkills: BackendSkills[] = ['NodeJS', 'NestJS', 'Express', 'MongoDB'];
+
+  readonly industries: string[] = [
+    'Ecommerce',
+    'Fintech',
+    'Healthcare',
+    'Social Media',
+    'GIS',
+  ];
+
+  constructor() {
+    this.logIntro();
+  }
+
+  private logIntro(): void {
+    console.info(`${this.title} reporting for duty. Yes, I have dark mode enabled.`);
+  }
+
+  ngOnInit(): void {
+    this.optimizeEverything();
+  }
+
+  private optimizeEverything(): void {
+    // Performance is my love language.
+    console.time('loadTime');
+    this.refactorLegacyCode();
+    this.debugMysteryBugs();
+    console.timeEnd('loadTime');
+  }
+
+  private refactorLegacyCode(): void {
+    // Turn spaghetti into solid architecture
+  }
+
+  private debugMysteryBugs(): void {
+    // Aka, archaeology
+  }
+}
+```
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
