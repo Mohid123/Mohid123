@@ -1,63 +1,16 @@
 # Hi, I'm Mohid 👋
  
-```
-import { Developer, Passion, Frameworks, Industries, BackendSkills } from '@mohid/core';
+Senior Front-End Alchemist 🧪 | Turning bugs into features since the dawn of ngOnInit().
 
-@Component({
-  selector: 'senior-front-end-dev',
-  template: `
-    <div>
-      <h1>Hi, I’m Mohid 👋</h1>
-      <p>I build performant frontends and battle-hardened backends.</p>
-      <p>Also fluent in caffeine and sarcastic commit messages.</p>
-    </div>
-  `,
-  changeDetection: ChangeDetectionStrategy.OnPush,
-})
-export class MohidComponent implements Developer {
-  readonly title = 'Senior Front-End Developer';
-  readonly passion: Passion = 'Crafting clean, scalable, and *actually* enjoyable codebases.';
+Framework polyglot: Angular, React, Solid — if it renders, I wrangle it.
+Backend hacker on the weekends (and weekdays): NodeJS, NestJS, Express, MongoDB.
+Yes, I’ve tried turning it off and on again. I’ve also tried deploying at 4:59 PM on a Friday... once.
 
-  readonly frameworks: Frameworks[] = ['Angular', 'React', 'Next.js', 'Solid.js'];
-  readonly backendSkills: BackendSkills[] = ['NodeJS', 'NestJS', 'Express', 'MongoDB'];
+🧩 I build in ecommerce, fintech, healthcare, education, social media and much more.
+📦 I’ve shipped code that handles real money, real health, and real user complaints about dark mode.
+🛰️ My GIS code may or may not have once tried to triangulate my lunch location.
 
-  readonly industries: string[] = [
-    'Ecommerce',
-    'Fintech',
-    'Healthcare',
-    'Social Media',
-    'GIS',
-  ];
-
-  constructor() {
-    this.logIntro();
-  }
-
-  private logIntro(): void {
-    console.info(`${this.title} reporting for duty. Yes, I have dark mode enabled.`);
-  }
-
-  ngOnInit(): void {
-    this.optimizeEverything();
-  }
-
-  private optimizeEverything(): void {
-    // Performance is my love language.
-    console.time('loadTime');
-    this.refactorLegacyCode();
-    this.debugMysteryBugs();
-    console.timeEnd('loadTime');
-  }
-
-  private refactorLegacyCode(): void {
-    // Turn spaghetti into solid architecture
-  }
-
-  private debugMysteryBugs(): void {
-    // Aka, archaeology
-  }
-}
-```
+I refactor for fun. I optimize for joy. I comment like someone might read it one day (they won’t).
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
