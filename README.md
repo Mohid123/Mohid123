@@ -1,6 +1,6 @@
 # Hi, I'm Mohid 👋
  
-Senior Front-End Alchemist 🧪 | Turning bugs into features since the dawn of ngOnInit().
+Senior Front-End Alchemist 🧪 | Turning bugs into features since the dawn of `ngOnInit()`.
 
 Framework polyglot: Angular, React, Solid — if it renders, I wrangle it.
 Backend hacker on the weekends (and weekdays): NodeJS, NestJS, Express, MongoDB.
