@@ -58,9 +58,6 @@ I refactor for fun. I optimize for joy. I comment like someone might read it one
 ## 💬 Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/k6ayjo86ctifa85jzk704iup8)
-
 ## 🛠 Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
