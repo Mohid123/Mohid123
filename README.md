@@ -6,7 +6,6 @@ Framework polyglot: Angular, React, Solid — if it renders, I wrangle it.
 Backend hacker on the weekends (and weekdays): NodeJS, NestJS, Express, MongoDB.
 Yes, I’ve tried turning it off and on again. I’ve also tried deploying at 4:59 PM on a Friday... once.
 
-🧩 I build in ecommerce, fintech, healthcare, education, social media and much more.
 📦 I’ve shipped code that handles real money, real health, and real user complaints about dark mode.
 🛰️ My GIS code may or may not have once tried to triangulate my lunch location.
 
