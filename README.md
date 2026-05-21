@@ -19,6 +19,11 @@ I refactor for fun. I optimize for joy. I comment like someone might read it one
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Solid.js](https://img.shields.io/badge/-Solid.js-2D3C69?logo=solid&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![MapLibre](https://img.shields.io/badge/-MapLibre-396CB2?logo=maplibre&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/-Leaflet.js-199900?logo=leaflet&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
@@ -30,29 +35,17 @@ I refactor for fun. I optimize for joy. I comment like someone might read it one
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white)
-![Prime NG](https://img.shields.io/badge/-PrimeNG-00C853?logo=prime&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/-Angular--Material-757575?logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white)
 ![NgRX](https://img.shields.io/badge/-NgRX-B7282D?logo=redux&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React--Query-FF4154?logo=react-query&logoColor=white)
-![Materialize CSS](https://img.shields.io/badge/-Materialize--CSS-EB706F?logo=material-design&logoColor=white)
-![Taiga UI](https://img.shields.io/badge/Taiga--UI-1793D1?logoColor=white)
-![Ignite UI](https://img.shields.io/badge/Ignite--UI-DD1100?logoColor=white)
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohid123&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohid123&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 ## 🔥 Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohid123&theme=radical)](https://git.io/streak-stats)
 
 ## 🌱 Contribution Graph
 [![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Mohid123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Mohid123&color=brightgreen)
 
 ## 💬 Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
