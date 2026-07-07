@@ -1,68 +1,99 @@
-# Hi, I'm Mohid 👋
- 
-Senior Front-End Alchemist 🧪 | Turning bugs into features since the dawn of `ngOnInit()`.
+<div align="center">
 
-Framework polyglot: Angular, React, Solid — if it renders, I wrangle it.
-Backend hacker on the weekends (and weekdays): NodeJS, NestJS, Express, MongoDB.
-Yes, I’ve tried turning it off and on again. I’ve also tried deploying at 4:59 PM on a Friday... once.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1B,50:1A0B2E,100:0D0221&height=220&section=header&text=MOHID%20DASTGEER&fontSize=48&fontColor=00F0FF&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20//%20SYSTEM%20ARCHITECT&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-📦 I’ve shipped code that handles real money, real health, and real user complaints about dark mode.
-🛰️ My GIS code may or may not have once tried to triangulate my lunch location.
+<br/>
 
-I refactor for fun. I optimize for joy. I comment like someone might read it one day (they won’t).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF2A6D&center=true&vCenter=true&width=780&lines=%3E+booting+mohid.exe...;%3E+role%3A+senior+front-end+alchemist;%3E+status%3A+turning+bugs+into+features+since+ngOnInit%28%29;%3E+deploying%3A+angular+%2F+react+%2F+solid+%2F+nestjs;%3E+uplink%3A+ONLINE+%7C+shipping+code)](https://git.io/typing-svg)
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Solid.js](https://img.shields.io/badge/-Solid.js-2D3C69?logo=solid&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![MapLibre](https://img.shields.io/badge/-MapLibre-396CB2?logo=maplibre&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/-Leaflet.js-199900?logo=leaflet&logoColor=white)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white)
-![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Form.IO](https://img.shields.io/badge/-Form.IO-00C853?logo=formstack&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
-![Angular Material](https://img.shields.io/badge/-Angular--Material-757575?logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white)
-![NgRX](https://img.shields.io/badge/-NgRX-B7282D?logo=redux&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🔥 Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohid123&theme=radical)](https://git.io/streak-stats)
+</div>
 
-## 🌱 Contribution Graph
-[![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Mohid123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
-## 💬 Random Dev Quote
+<div align="center">
+
+## <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="35"> NEURAL STACK // TECH DEPLOYED
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F9F002)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+![Angular](https://img.shields.io/badge/-Angular-0D0221?style=for-the-badge&logo=angular&logoColor=FF2A6D)
+![React](https://img.shields.io/badge/-React-0D0221?style=for-the-badge&logo=react&logoColor=00F0FF)
+![Next.js](https://img.shields.io/badge/-Next.js-0D0221?style=for-the-badge&logo=next.js&logoColor=05D9E8)
+![Solid.js](https://img.shields.io/badge/-Solid.js-0D0221?style=for-the-badge&logo=solid&logoColor=00F0FF)
+![NestJS](https://img.shields.io/badge/-NestJS-0D0221?style=for-the-badge&logo=nestjs&logoColor=FF2A6D)
+![MapLibre](https://img.shields.io/badge/-MapLibre-0D0221?style=for-the-badge&logo=maplibre&logoColor=00F0FF)
+![Leaflet.js](https://img.shields.io/badge/-Leaflet.js-0D0221?style=for-the-badge&logo=leaflet&logoColor=05D9E8)
+![WebGL](https://img.shields.io/badge/-WebGL-0D0221?style=for-the-badge&logo=webgl&logoColor=FF2A6D)
+![DuckDB](https://img.shields.io/badge/-DuckDB-0D0221?style=for-the-badge&logo=duckdb&logoColor=F9F002)
+![SQLite](https://img.shields.io/badge/-SQLite-0D0221?style=for-the-badge&logo=sqlite&logoColor=00F0FF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D0221?style=for-the-badge&logo=mongodb&logoColor=05D9E8)
+![Express.js](https://img.shields.io/badge/-Express.js-0D0221?style=for-the-badge&logo=express&logoColor=F9F002)
+![npm](https://img.shields.io/badge/-npm-0D0221?style=for-the-badge&logo=npm&logoColor=FF2A6D)
+![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=F9F002)
+![Node.js](https://img.shields.io/badge/-Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=00F0FF)
+![Form.IO](https://img.shields.io/badge/-Form.IO-0D0221?style=for-the-badge&logo=formstack&logoColor=05D9E8)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D0221?style=for-the-badge&logo=tailwind-css&logoColor=00F0FF)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-0D0221?style=for-the-badge&logo=bootstrap&logoColor=FF2A6D)
+![HTML5](https://img.shields.io/badge/-HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=FF2A6D)
+![CSS3](https://img.shields.io/badge/-CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=05D9E8)
+![Material UI](https://img.shields.io/badge/-Material--UI-0D0221?style=for-the-badge&logo=mui&logoColor=00F0FF)
+![SCSS](https://img.shields.io/badge/-SCSS-0D0221?style=for-the-badge&logo=sass&logoColor=FF2A6D)
+![Angular Material](https://img.shields.io/badge/-Angular--Material-0D0221?style=for-the-badge&logo=angular&logoColor=FF2A6D)
+![RxJS](https://img.shields.io/badge/-RxJS-0D0221?style=for-the-badge&logo=reactivex&logoColor=FF2A6D)
+![NgRX](https://img.shields.io/badge/-NgRX-0D0221?style=for-the-badge&logo=redux&logoColor=FF2A6D)
+![Redux](https://img.shields.io/badge/-Redux-0D0221?style=for-the-badge&logo=redux&logoColor=05D9E8)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> CONTRIBUTION MATRIX
+
+[![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Mohid123&theme=tokyo-night&bg_color=0D0221&color=00F0FF&line=FF2A6D&point=F9F002&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> TRANSMISSION FROM THE VOID
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠 Tools & Technologies
+</div>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> HARDWARE // TOOLING INTERFACE
+
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0D0221?style=for-the-badge&logo=visual-studio-code&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/Ubuntu-0D0221?style=for-the-badge&logo=ubuntu&logoColor=F9F002" />
+  <img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=05D9E8" />
+  <img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=C5C6C7" />
+  <img src="https://img.shields.io/badge/Bitbucket-0D0221?style=for-the-badge&logo=bitbucket&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Swagger-0D0221?style=for-the-badge&logo=swagger&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Twilio-0D0221?style=for-the-badge&logo=twilio&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/Figma-0D0221?style=for-the-badge&logo=figma&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/Slack-0D0221?style=for-the-badge&logo=slack&logoColor=05D9E8" />
 </p>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mohid123&theme=radical&column=7)
+</div>
+
+<br/>
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1A0B2E,100:0F0F1B&height=120&section=footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=Mohid123&label=CONNECTIONS+ESTABLISHED&color=00F0FF&style=for-the-badge&labelColor=0D0221"/>
+
+</div>
