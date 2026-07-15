@@ -1,65 +1,187 @@
-# Hi, I'm Mohid 👋
- 
-Full Stack Alchemist 🧪 | Turning bugs into features since the dawn of `ngOnInit()`.
+# 👨‍💻 About Me
 
-Framework polyglot: Angular, React, Solid — if it renders, I wrangle it.
-Backend hacker on the weekends (and weekdays): NodeJS, NestJS, Express, MongoDB.
-Yes, I’ve tried turning it off and on again. I’ve also tried deploying at 4:59 PM on a Friday... once.
+I'm a **Full Stack Engineer** with a passion for building applications that are fast, scalable, and enjoyable to use.
 
-📦 I’ve shipped code that handles real money, real health, and real user complaints about dark mode.
-🛰️ My GIS code may or may not have once tried to triangulate my lunch location.
+My sweet spot is creating modern web applications using **Angular**, **React**, and **Next.js**, while also designing reliable backend services with **NestJS**, **Node.js**, and **MongoDB**.
 
-I refactor for fun. I optimize for joy. I comment like someone might read it one day (they won’t).
+Over the years I've built software used in:
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Solid.js](https://img.shields.io/badge/-Solid.js-2D3C69?logo=solid&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![MapLibre](https://img.shields.io/badge/-MapLibre-396CB2?logo=maplibre&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/-Leaflet.js-199900?logo=leaflet&logoColor=white)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white)
-![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Form.IO](https://img.shields.io/badge/-Form.IO-00C853?logo=formstack&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
-![Angular Material](https://img.shields.io/badge/-Angular--Material-757575?logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white)
-![NgRX](https://img.shields.io/badge/-NgRX-B7282D?logo=redux&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+💰 FinTech
+🏥 Healthcare
+🛒 Enterprise E-Commerce
+🚚 Fleet Management
+☁️ SaaS Platforms
+📍 GIS & Mapping Platforms
+📱 Cross-platform Mobile Apps
 
-## 🔥 Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohid123&theme=radical)](https://git.io/streak-stats)
+I enjoy solving problems that aren't obvious:
 
-## 🌱 Contribution Graph
-[![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Mohid123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+* ⚡ Performance optimization
+* 🌍 Interactive maps & geospatial visualization
+* 🚚 Fleet tracking & operational dashboards
+* ☁️ Multi-tenant SaaS applications
+* 🏗️ Application architecture
+* 📦 Offline-first applications
+* 🚀 Scaling frontend systems
 
-## 💬 Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+When I'm not coding, I'm usually learning something new, reading about distributed systems, or wondering why a build works locally but nowhere else.
 
-## 🛠 Tools & Technologies
+---
+
+# 🏆 Highlights
+
+* 🚀 Built production applications serving thousands of users
+* ☁️ Developed scalable SaaS platforms with modern frontend architectures
+* 🚚 Built fleet management solutions with live tracking, monitoring, and operational dashboards
+* ⚡ Optimized enterprise applications for significantly faster load times
+* 🛰️ Experienced in GIS, mapping, and geospatial visualization
+* 📱 Built cross-platform mobile applications with offline capabilities
+* 💳 Developed secure payment and healthcare platforms
+* 🏗️ Passionate about scalable frontend architecture and system design
+
+---
+
+# ⚡ Current Focus
+
+```text
+🚀 Scalable SaaS Platforms
+🚚 Fleet Management Systems
+🗺️ Modern GIS & Mapping Solutions
+⚡ High-Performance Angular & React Apps
+📱 Offline-First Mobile Applications
+🏗️ System Design & Distributed Architecture
+```
+
+---
+
+# 🚀 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,solidjs,ts,js,html,css,sass,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,ubuntu,figma" />
+</p>
+
+### Other Technologies
+
+#### 🗺️ GIS & Visualization
+
+* 🗺️ MapLibre GL
+* 🍃 Leaflet
+* 🎮 WebGL
+
+#### 🗄️ Data & Storage
+
+* 🦆 DuckDB
+* 🐘 PostgreSQL
+* 🗃️ SQLite
+
+#### ⚛️ Frontend Ecosystem
+
+* 📡 RxJS
+* 🏪 NgRx
+* ⚛️ Redux
+* 🔄 TanStack Query
+* 🐻 Zustand
+
+#### 🔧 APIs & Integrations
+
+* 📄 Form.io
+* 📚 Swagger / OpenAPI
+* ☁️ Twilio APIs
+
+---
+
+# 🏗️ System Design & Architecture
+
+```text
+🏢 Monolithic Architecture
+🧩 Microservices Architecture
+📡 Event-Driven Architecture
+⚡ Real-Time Systems
+📦 Offline-First Architecture
+
+🔄 Distributed Job Processing
+🌍 Geospatial System Architecture
+🔁 Sync Engine Design
+🌐 REST API Design
+🚀 Caching & Performance Optimization
+⚖️ Load Balancing
+```
+
+> *I enjoy designing resilient, scalable systems—from SaaS platforms and fleet management solutions to GIS applications and offline-first architectures.*
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohid123&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohid123&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> **"Good code works. Great code disappears."**
+
+I believe software should be:
+
+* Maintainable
+* Predictable
+* Fast
+* Accessible
+* Delightful
+
+---
+
+# 🌎 Let's Connect
+
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+<a href="https://github.com/Mohid123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-mohid/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammadmohid141@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Any fool can write code that a computer understands. Good engineers write code that humans understand."*
+**— Martin Fowler**
+
 </p>
